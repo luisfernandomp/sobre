@@ -7,9 +7,9 @@
 Estou aprendendo no momento **ReactNative, ReactJS, Api Rest C#**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-mp/)](https://www.linkedin.com/in/luis-fernando-mp/)
-[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/luis.fernando_mp/)](https://www.instagram.com/luis.fernando_mp/) 
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:luisfernandomesquita2016@gmail.com)](mailto:luisfernandomesquita2016@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-mp/)](https://www.linkedin.com/in/luis-fernando-mp/)
+[![Instagram Badge](https://img.shields.io/badge/-Luis Fernando-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/luis.fernando_mp/)](https://www.instagram.com/luis.fernando_mp/) 
+[![Gmail Badge](https://img.shields.io/badge/-luisfernandomesquita2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:luisfernandomesquita2016@gmail.com)](mailto:luisfernandomesquita2016@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
